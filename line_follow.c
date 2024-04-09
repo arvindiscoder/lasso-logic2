@@ -6,7 +6,7 @@
 //    Pair Partner(s)   Krishnaa Rajesh
 //    Email:                  as91657@student.musd.org
 //    Coach:                Mr. Tran
-//    Credits:               Mr. Tim
+//    Credits:               KISS resources, Botball discord
 //
 //
 #include <kipr/wombat.h>
