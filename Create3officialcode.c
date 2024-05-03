@@ -2,8 +2,8 @@
 //    Files:                   main.c
 //    Semester:           Rancho Botball Spring 2024
 //
-//    Author:                Arvind Sainathan
-//    Pair Partner(s)   Krishnaa Rajesh
+//    Author:                Arvind Sainathan Neel Arora Nimish Nijhawan
+//     Few idea giver Krishnaa Rajesh
 //    Email:                  as91657@student.musd.org
 //    Coach:                Mr. Tran
 //    Credits:              Mr. Tim, Neel Arora, Nimish Nijawan
