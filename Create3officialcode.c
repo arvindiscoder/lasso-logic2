@@ -1,5 +1,5 @@
-//    Title:                    Main code
-//    Files:                   main.c
+//    Title:               Create3officialcode
+//    Files:               Create3officialcode.c
 //    Semester:           Rancho Botball Spring 2024
 //
 //    Author:                Arvind Sainathan Neel Arora Nimish Nijhawan
