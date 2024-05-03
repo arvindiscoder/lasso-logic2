@@ -6,7 +6,7 @@
 //     Few idea giver Krishnaa Rajesh
 //    Email:                  as91657@student.musd.org
 //    Coach:                Mr. Tran
-//    Credits:              Mr. Tim, Neel Arora, Nimish Nijawan
+//    Credits:              Mr. Tim, Arvind Sainathan Neel Arora, Nimish Nijawan
 //
 //
 
