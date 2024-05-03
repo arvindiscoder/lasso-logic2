@@ -52,7 +52,7 @@ void line_follow(){
 
 
 
-void follow_towards(int farness, float speed){
+void follow_towards(int farness, float speed){//gets input for function use
     while(analog(0) < farness){
         create3_drive_straight(0.1,speed);
     }
@@ -99,7 +99,7 @@ int main()
     create3_drive_straight(-0.2,0.49);
 
     while(analog(2)<1000){
-        create3_velocity_set_components(0.1,0);
+        create3_velocity_set_components(0.1,0);//ets linear x to 0.1
 
     }
     create3_drive_straight(-0.1,0.49);
